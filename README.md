@@ -1,3 +1,12 @@
+This project is created by University of Florida students and coded by Gabrielle Calise using the Foodster theme. 
+
+
+
+
+
+
+
+Here is the original README content from Wrap Bootstrap.
 # README #
 
 Thank you for purchasing the theme.
